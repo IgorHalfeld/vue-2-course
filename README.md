@@ -14,9 +14,9 @@ Esse repositório terá todos os códigos usados nas aulas.
   - Hyperscript
   - JSX
 + Filters
++ Computed properties
 + v-model
 + v-for
-+ Computed properties
 + Componentes
 + Eventos
 + Diretivas
