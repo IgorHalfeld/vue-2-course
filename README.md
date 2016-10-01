@@ -15,11 +15,19 @@ Esse repositório terá todos os códigos usados nas aulas.
   - JSX
 + Filters
 + Computed properties
-+ v-model
-+ v-for
++ Diretivas Embarcadas
+  - v-bind
+  - v-once
+  - v-html
+  - v-on
+  - v-if
+  - v-show
+  - v-model
+  - v-for
++ Diretivas Personalizadas
 + Componentes
 + Eventos
-+ Diretivas
++ Vuex
 + Vue-router
 + Como funciona a Reatividade do Vue
 + Javascript isomórfico com Vue <3
