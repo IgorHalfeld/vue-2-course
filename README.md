@@ -16,12 +16,14 @@ Esse repositório terá todos os códigos usados nas aulas.
 + Filters
 + Computed properties
 + Diretivas Embarcadas
-  - v-bind
+  - v-text
   - v-once
   - v-html
+  - v-bind
   - v-on
   - v-if
   - v-show
+  - <s>v-el/v-ref</s>
   - v-model
   - v-for
 + Diretivas Personalizadas
